@@ -3,3 +3,7 @@ config
 env-cmd
 env-cmd.cmd
 env-cmd.ps1
+jest
+jest.cmd
+jest.ps1
+tests
